@@ -1,9 +1,9 @@
 <!-- Título -->
 # Introdução
 
-****Conteúdo da Aula:***
+***Conteúdo da Aula:***
 
-Na programação Orientada a Objetos, herança é o mecanismo pelo qual uma classe obtém as características e métodos de outra para expandi-la ou especializá-la de alguma forma.
+Na Programação Orientada a Objetos, herança é o mecanismo pelo qual uma classe obtém as características e métodos de outra para expandi-la ou especializá-la de alguma forma.
 
 Ou seja, uma classe pode **“herdar”** características, métodos e atributos de outras classes.
 
