@@ -9,13 +9,13 @@ Ou seja, uma classe pode **“herdar”** características, métodos e atributos
 
 Da mesma maneira, uma classe transmite suas características para outras classes, tornando-as suas herdeiras.
 
-Sob o ponto de vista prático da orientação a objetos, a herança constitui um mecanismo muito inteligente de aproveitar código.
+Sob o ponto de vista prático da orientação a objetos, a herança constitui um mecanismo muito inteligente de reaproveitamento de código.
 
 É através da herança que os objetos podem compartilhar métodos e atributos.
 
-Assim, é possível criar uma nova classe fazendo com que herde os métodos e atributos de outra classe, tornando-a uma classe **“filha”** da classe que a gerou.
+Assim, é possível criar uma nova classe fazendo com que ela herde os métodos e atributos de outra classe, tornando-a uma classe **“filha”** da classe que a gerou.
 
-A grande vantagem, nesse caso, é a reutilização de todo o código já implementado na classe-pai, restando apenas implementar os métodos e atributos que a diferenciem da classe-pai.
+A grande vantagem, nesse caso, é a reutilização de todo o código já implementado na classe-mãe, restando apenas implementar os métodos e atributos que a diferenciem da classe-mãe.
 
 <!-- Informações -->
 ## &#8505; Informações
