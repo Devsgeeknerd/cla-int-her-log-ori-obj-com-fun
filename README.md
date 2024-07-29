@@ -3,33 +3,75 @@
 
 ***Conteúdo da Aula:***
 
-Na Programação Orientada a Objetos, herança é o mecanismo pelo qual uma classe obtém as características e métodos de outra para expandi-la ou especializá-la de alguma forma.
+A aula de "Introdução" do módulo "Herança" é a porta de entrada para um dos conceitos mais fundamentais e poderosos da programação orientada a objetos (POO).
 
-Ou seja, uma classe pode **“herdar”** características, métodos e atributos de outras classes.
+Nesta aula, os alunos serão apresentados ao conceito de herança, sua importância e como ela pode ser utilizada para criar hierarquias de classes eficientes e reutilizáveis.
 
-Da mesma maneira, uma classe transmite suas características para outras classes, tornando-as suas herdeiras.
+A aula fornecerá uma base teórica sólida, complementada por exemplos práticos que ilustram a aplicação da herança em cenários reais de programação.
 
-Sob o ponto de vista prático da orientação a objetos, a herança constitui um mecanismo muito inteligente de reaproveitamento de código.
+## Objetivos de Aprendizagem
 
-É através da herança que os objetos podem compartilhar métodos e atributos.
+* **Compreender o Conceito de Herança:**
 
-Assim, é possível criar uma nova classe fazendo com que ela herde os métodos e atributos de outra classe, tornando-a uma classe **“filha”** da classe que a gerou.
+* Definir herança e seu papel na programação orientada a objetos;
+* Explicar os benefícios da herança, como reutilização de código e organização de classes.
 
-A grande vantagem, nesse caso, é a reutilização de todo o código já implementado na classe-mãe, restando apenas implementar os métodos e atributos que a diferenciem da classe-mãe.
+* **Diferenciar Herança Simples e Múltipla:**
+
+* Descrever a diferença entre herança simples e múltipla;
+* Discutir as vantagens e desvantagens de cada tipo de herança.
+
+* **Conhecer a Sintaxe Básica da Herança:**
+
+* Introduzir a sintaxe básica para implementar herança em uma linguagem de programação orientada a objetos;
+* Mostrar exemplos de como declarar superclasses e subclasses.
+
+* **Identificar e Usar Superclasses e Subclasses:**
+
+* Explicar os conceitos de superclasse (classe pai) e subclasse (classe filha);
+* Demonstrar como subclasses herdam propriedades e métodos de superclasses.
+
+## Conteúdo Programático
+
+* **Conceito de Herança:**
+
+* Definição e importância da herança em POO;
+* Exemplos do mundo real para ilustrar a herança (por exemplo, veículos e suas subclasses).
+
+* **Herança Simples vs. Herança Múltipla:**
+
+* Definição de herança simples:
+  * Uma subclasse herda de uma única superclasse.
+* Definição de herança múltipla:u
+  * Uma subclasse herda de múltiplas superclasses.
+* Discussão sobre a implementação de herança múltipla em diferentes linguagens de programação.
+
+* **Sintaxe Básica da Herança:**
+
+* Apresentação da sintaxe básica para implementar herança (uso da palavra-chave extends ou equivalente);
+* Exemplo prático:
+  * criação de uma classe Animal e subclasses Cachorro e Gato.
+
+* **Superclasses e Subclasses:**
+
+* Explicação detalhada de superclasses e subclasses;
+* Demonstração de como propriedades e métodos são herdados;
+* Exemplo prático:
+  * Adicionar propriedades e métodos específicos às subclasses.
 
 <!-- Informações -->
 ## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-int-her-log-ori-obj-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-int-her-log-ori-obj-com-fun&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-int-her-log-ori-obj-com-fun?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-int-her-log-ori-obj-com-fun?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-int-her-log-ori-obj-com-fun?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-int-her-log-ori-obj-com-fun?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/cla-int-her-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-int-her-log-ori-obj-com-fun?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
