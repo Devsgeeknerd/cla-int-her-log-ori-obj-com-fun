@@ -40,4 +40,10 @@ class Gato extends Animal {
   ) : super(nome, idade);
 }
 
-void main(List<String> args) {}
+void main(List<String> args) {
+  Cachorro meuCachorro = Cachorro('Pitoco', 3, 'Labrador');
+  Gato meuGato = Gato('Preta', 5, 'Branco');
+
+  meuCachorro.emitirSom();
+  meuGato.emitirSom();
+}
