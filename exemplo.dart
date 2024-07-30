@@ -24,11 +24,20 @@ class Cachorro extends Animal {
   ) : super(nome, idade);
 
   @override
-  void emitirSom(){
+  void emitirSom() {
     print("O cachorro late.");
   }
 }
 
 // Definindo a subclasse Gato.
+class Gato extends Animal {
+  String cor;
+
+  Gato(
+    String nome,
+    int idade,
+    this.cor,
+  ) : super(nome, idade);
+}
 
 void main(List<String> args) {}
