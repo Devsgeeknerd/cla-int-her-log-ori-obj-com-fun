@@ -38,6 +38,11 @@ class Gato extends Animal {
     int idade,
     this.cor,
   ) : super(nome, idade);
+
+  @override
+  void emitirSom() {
+    print('O gato mia.');
+  }
 }
 
 void main(List<String> args) {
